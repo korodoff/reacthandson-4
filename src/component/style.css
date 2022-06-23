@@ -1,0 +1,24 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(202, 153, 161) , rgb(164, 211, 211));
+    color: white;
+  }
+  .newpage {
+    display: flex;
+    justify-content: center;
+  }
+  .addnew {
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+  }
+
+  .links{
+    display: flex;
+    flex-direction: row;
+    
+  }
+  span{
+    margin-left: 10em;
+  }
